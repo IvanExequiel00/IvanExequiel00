@@ -37,8 +37,14 @@ Soy un desarrollador Full Stack con especialización en Front-End.
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-<table><tr><td valign="top" width="33%">
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
 <br/>  
+
 
 ## Connect with me  
 <div align="center">
@@ -54,13 +60,13 @@ Soy un desarrollador Full Stack con especialización en Front-End.
 <br/>  
 
 
-
+## Github Stats  
   
 
 <br/>  
 
 
-
+## Recent Blog Posts  
   
 
 <br/>  
@@ -77,4 +83,4 @@ Soy un desarrollador Full Stack con especialización en Front-End.
 <br />
 
 ----
-
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
