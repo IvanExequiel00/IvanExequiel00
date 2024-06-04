@@ -51,7 +51,7 @@ Soy un desarrollador Full Stack con especialización en Front-End.
 <a href="https://github.com/https://github.com/IvanExequiel00" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/ivan-rojas-6b8b16216" target="_blank">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ivan-rojas-6b8b16216" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -60,7 +60,27 @@ Soy un desarrollador Full Stack con especialización en Front-End.
 <br/>  
 
 
+## Github Stats  
+  
 
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
 
 ----
-
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
