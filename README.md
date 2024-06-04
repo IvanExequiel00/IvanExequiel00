@@ -39,7 +39,7 @@ Soy un desarrollador Full Stack con especialización en Front-End.
 
 
 <br/>  
-
+<table><tr><td valign="top" width="33%">
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/IvanExequiel00" target="_blank">
@@ -77,4 +77,4 @@ Soy un desarrollador Full Stack con especialización en Front-End.
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
