@@ -60,13 +60,13 @@ Soy un desarrollador Full Stack con especialización en Front-End.
 <br/>  
 
 
-## Github Stats  
+
   
 
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
