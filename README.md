@@ -38,7 +38,7 @@ Soy un desarrollador Full Stack con especialización en Front-End.
 </div>
 
 
-
+<br/>  
 
 ## Connect with me  
 <div align="center">
