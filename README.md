@@ -60,27 +60,7 @@ Soy un desarrollador Full Stack con especialización en Front-End.
 <br/>  
 
 
-## Github Stats  
-  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
