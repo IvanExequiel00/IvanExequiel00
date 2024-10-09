@@ -2,6 +2,8 @@
 
 ### Hola!👋  
 Mi nombre es Iván Rojas y desde antes de terminar la secundaria, me interesé en la programación. Comencé a programar por mi cuenta y luego, gracias a un amigo, descubrí Henry, que me ayuda a tener una mejor dirección en lo que quiero lograr. Mi objetivo es convertirme en un excelente programador con la habilidad de crear soluciones y comunicarme en mi idioma natal, ya sea español o inglés. Además, cuento con un nivel de ingles B2 certificado en EF EDUCATION FIRST.
+
+dejo adjunto mi portafolio: https://project-portafolio-lmvb.vercel.app/
   
 
 <br/>  
